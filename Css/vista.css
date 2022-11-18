@@ -23,6 +23,7 @@ body
     width: 5%;
     vertical-align: middle;
     text-align:left;
+    margin-right: 10px;
 }
 #container{
     width: 70%;
