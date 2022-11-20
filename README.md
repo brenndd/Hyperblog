@@ -1,11 +1,11 @@
-# Hyperblog :tw-1f60e::tw-1f5fb:
+# Hyperblog 😎
 Un blog para el curso de Git y Github de Platzi.
 
 Este es un repositorio de un proyecto de un "Blog" para , como bien dice el título, 
 el curso de Git y GitHub de Platzi.
 
 En el curso abarcamos una cantidad considerable de comandos de Git,
-también pudimos observar un flujo de trabajo con 2 personas distintas (Freddy  y Freddy fingiendo ser Anita :tw-1f605:), para tener un ejemplo de como sería.
+también pudimos observar un flujo de trabajo con 2 personas distintas (Freddy  y Freddy fingiendo ser Anita 🫢), para tener un ejemplo de como sería.
 
 Vimos los pull request cuando eres colaborador y cuando no lo eres D:
 
